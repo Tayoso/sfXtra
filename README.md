@@ -37,21 +37,13 @@ Download the repo and run "test script.R"
 `WORKING PROTOTYPE`
 
 ### **Authors**
-* Tayo Ososanya (tayo.ososanya@arcadisgen.com)
-* David Smith (david.smith@arcadisgen.com)
+* Tayo Ososanya
 
 ### **Maintainer**
-* Tayo Ososanya (tayo.ososanya@arcadisgen.com)
+* Tayo Ososanya
 
 ### **Requirements**
 * R installation and R packages (dplyr,elevatr,magrittr,units,sf,sp,rgdal,plyr,polylineSplitter)
 
 
 --------------------------------------------------------------------------------------
-
-## Copyright and metadata 
-
-### **Copyright** 
-Copyright (c) 2020 Arcadis Nederland B.V. 
-
-Without prior written consent of Arcadis Nederland B.V., this code may not be published or duplicated. 
